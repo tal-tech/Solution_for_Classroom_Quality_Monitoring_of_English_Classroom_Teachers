@@ -1,0 +1,3 @@
+offline-asr-sub-e2e-asr/res/model.pt
+offline-asr-sub-e2e-asr/lib/libtorch_cuda.so
+offline-asr-sub-e2e-asr/lib/libtorch_cpu.so
